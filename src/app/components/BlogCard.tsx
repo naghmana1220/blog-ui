@@ -15,7 +15,7 @@ const BlogCard = () => {
       </div>
       <p className="lg:w-1/2 w-full leading-relaxed text-gray-300">
       Introduce the concepts of Machine Learning (ML) and Deep Learning (DL),
-       explaining their significance in today's tech-driven world and how they are reshaping industries.
+       explaining their significance in todays tech-driven world and how they are reshaping industries.
       </p>
     </div>
     <div className="flex flex-wrap -m-4">
@@ -31,7 +31,7 @@ const BlogCard = () => {
           />
           </Link>
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-            Naghmana's Blog
+            Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Machine Learning
@@ -52,7 +52,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Deep Learning
@@ -72,7 +72,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-semibold title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-medium title-font mb-4">
           Machine Learning 
@@ -93,7 +93,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Deep Learning
@@ -116,7 +116,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Machine Learning
@@ -140,7 +140,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Deep Learning
@@ -164,7 +164,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Machine Learning
@@ -187,7 +187,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Deep Learning
@@ -213,7 +213,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Machine Learning
@@ -237,7 +237,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Deep Learning
@@ -262,7 +262,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Machine Learning
@@ -286,7 +286,7 @@ const BlogCard = () => {
             height={100}
           />
           <h3 className="tracking-widest text-cyan-700 text-xs font-medium title-font">
-          Naghmana's Blog
+          Naghmanas Blog
           </h3>
           <h2 className="text-lg text-gray-950 font-semibold title-font mb-4">
           Deep Learning

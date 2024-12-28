@@ -20,7 +20,7 @@ const About = () => {
           About Me!
         </h2>
         <h1 className="text-gray-100 text-3xl title-font font-medium mb-1">
-          Naghmana's Informative Blog
+          Naghmanas Informative Blog
         </h1>
        
         <p className="leading-relaxed text-cyan-500 mt-6">
